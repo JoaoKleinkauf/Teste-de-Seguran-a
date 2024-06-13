@@ -1,0 +1,13 @@
+{
+    "nome": "joao",
+    "sobrenome": "fontes",
+    "empresa": "EBAC",
+    "pais": "Brasil",
+    "endereco": "Rua cachorro de lima",
+    "numero": "195",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "99000111",
+    "telefone": "51911223344",
+    "email": "joao.fontes@teste.com"
+  }
